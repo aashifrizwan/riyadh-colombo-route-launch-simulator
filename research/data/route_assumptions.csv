@@ -1,0 +1,18 @@
+category,assumption,base_case,unit,status
+Route,Origin,RUH,airport,verified
+Route,Destination,CMB,airport,verified
+Route,Distance,4040,km,public_source
+Schedule,Weekly frequencies,4,departures,working_assumption
+Schedule,Operating weeks,52,weeks,working_assumption
+Aircraft,Aircraft type,A320neo,aircraft,working_assumption
+Aircraft,Seats,174,seats,working_assumption
+Demand,Average load factor,80,percent,working_assumption
+Revenue,Average one-way fare,650,SAR,working_assumption
+Revenue,Ancillary revenue per passenger,85,SAR,working_assumption
+Revenue,Cargo revenue per flight,3000,SAR,working_assumption
+Cost,Fuel cost per one-way flight,42000,SAR,working_assumption
+Cost,Crew cost per one-way flight,8500,SAR,working_assumption
+Cost,Airport and handling cost per flight,15000,SAR,working_assumption
+Cost,Maintenance cost per flight,10500,SAR,working_assumption
+Cost,Aircraft ownership allocation per flight,14000,SAR,working_assumption
+Cost,Other operating cost per flight,5000,SAR,working_assumption
